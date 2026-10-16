@@ -1,0 +1,8 @@
+{
+  "top_module": "alu4",
+  "rtl": "rtl/alu4.v",
+  "testbench": "testbench/alu4_tb.v",
+  "timing": "NOT MEASURED",
+  "power": "NOT MEASURED",
+  "physical_area": "NOT MEASURED"
+}

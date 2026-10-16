@@ -1,0 +1,4 @@
+TOTAL_TESTS=1024
+ERRORS=0
+RESULT=PASS
+/content/VLSI-AUTOPILOT/testbench/alu4_tb.v:48: $finish called at 1024 (1s)

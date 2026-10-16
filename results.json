@@ -1,0 +1,14 @@
+{
+  "project": "VLSI AUTOPILOT",
+  "design": "4-bit ALU",
+  "generated_at_utc": "2026-10-13T13:54:00.973289+00:00",
+  "rtl_file_found": true,
+  "simulation_pass": true,
+  "simulation_output": "TOTAL_TESTS=1024\nERRORS=0\nRESULT=PASS\n/content/VLSI-AUTOPILOT/testbench/alu4_tb.v:48: $finish called at 1024 (1s)\n",
+  "synthesis_pass": true,
+  "synthesis_return_code": 0,
+  "physical_area_measured": false,
+  "power_measured": false,
+  "timing_measured": false,
+  "overall_status": "PASS"
+}
